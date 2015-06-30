@@ -4,5 +4,9 @@
     <string name="app_name">FaceChange</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    
+    <string name="take_photo">拍照</string>
+    <string name="choose_pic">选择照片</string>
+	
+    
 </resources>
