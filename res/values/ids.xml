@@ -2,4 +2,12 @@
 <resources>
     <item name="main_take_photo" type="id"/>
     <item name="main_choose_pic" type="id" />
+    
+    <item name="pic_choose_dir" type="id" />
+    <item name="pic_choose_list" type="id" />
+    <item name="grid_item_image" type="id" />
+    
+    <item name="pic_result_img" type="id" />
+    <item name="pic_result_detect" type="id" />
+    <item name="pic_result_choose_bg" type="id" />
 </resources>

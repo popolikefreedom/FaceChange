@@ -7,6 +7,9 @@
     
     <string name="take_photo">拍照</string>
     <string name="choose_pic">选择照片</string>
+    
+    <string name="face_detect">人脸检测</string>
+    <string name="choose_template">选择模板</string>
 	
     
 </resources>
